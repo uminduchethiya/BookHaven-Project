@@ -63,29 +63,9 @@ namespace BookHaven.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _142_1429304_library_management_library_management_system_png {
-            get {
-                object obj = ResourceManager.GetObject("142-1429304_library-management-library-management-system-png", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap _20945504 {
             get {
                 object obj = ResourceManager.GetObject("20945504", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _4288270 {
-            get {
-                object obj = ResourceManager.GetObject("4288270", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,17 +106,6 @@ namespace BookHaven.Properties {
         internal static System.Drawing.Bitmap menu1 {
             get {
                 object obj = ResourceManager.GetObject("menu1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngtree_open_book_icon_for_library_and_studying_in_head_vector_png_image_15477299 {
-            get {
-                object obj = ResourceManager.GetObject("pngtree-open-book-icon-for-library-and-studying-in-head-vector-png-image_15477299" +
-                        "", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

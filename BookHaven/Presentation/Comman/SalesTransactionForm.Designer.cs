@@ -144,7 +144,7 @@
             // 
             // btnAddCustomer
             // 
-            btnAddCustomer.BackgroundImage = Properties.Resources._4288270;
+            //btnAddCustomer.BackgroundImage = Properties.Resources._4288270;
             btnAddCustomer.BackgroundImageLayout = ImageLayout.Zoom;
             btnAddCustomer.Location = new Point(880, 77);
             btnAddCustomer.Name = "btnAddCustomer";
